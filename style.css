@@ -1,0 +1,80 @@
+body {
+			margin: 14px;
+			padding: 13px;
+		}
+
+		.div1 {
+			margin-left: 358px;
+		}
+
+		.tab1 {
+			text-align: center;
+			border: 3px solid #dfa55e;
+			padding: 10px;
+			border-radius: 20px;
+		}
+
+		.tab2 {
+			text-align: center;
+			border: 3px solid #dfa55e;
+			padding: 10px;
+			background: #dfa55ed1;
+			padding-left: 12px;
+			border-radius: 20px;
+		}
+
+		.tab3 {
+			text-align: center;
+			border: 3px solid #dfa55e;
+			padding: 17px;
+			border-radius: 20px;
+		}
+
+		.tab4 {
+			border: 3px solid #dfa55e;
+			padding: 17px;
+			background: #dfa55ed1;
+			line-height: 25px;
+			border-radius: 20px;
+		}
+
+		}
+
+		#t01 {
+			margin-top: 20px;
+		}
+
+		.usu {
+			border: 3px solid #dfa55e;
+			margin-right: 974px;
+			height: 1926px;
+			background: #dfa55ed1;
+			margin-top: -1926px;
+			margin-left: 41px;
+			border-radius: 20px;
+		}
+
+		.edef {
+			border: 3px solid #dfa55e;
+			width: 205px;
+			margin-left: 38px;
+			margin-top: 27px;
+			border-radius: 20px;
+		}
+
+		.pee {
+			font-size: 16px;
+			margin: 30px;
+			margin-top: 44px;
+		}
+
+		.date {
+			margin: 20px;
+			color: #5d4a33;
+		}
+
+		.fon {
+			margin: 78px;
+			font-size: 15px;
+			color: #565158;
+		}
